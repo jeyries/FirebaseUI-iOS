@@ -1,0 +1,5 @@
+# Firebase
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseStorageBinary.json"
+
+# SDWebImage
+github "SDWebImage/SDWebImage"

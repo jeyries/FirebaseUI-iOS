@@ -29,3 +29,7 @@ DerivedData
 Pods/
 *.xcworkspace/
 samples/**/GoogleService-Info.plist
+
+# Carthage
+Carthage/
+
